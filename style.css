@@ -1,0 +1,23 @@
+.all-text {
+  font-family: 'VT323', monospace;
+  font-size: 20px;
+  font-weight: bolder;
+
+}
+body  {
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/868489934989315727/8755BF8FDDC68B3EF505C129806D234488605BCC/");
+    background-color: #f0ebeb;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.card {
+  background-color: rgba(245, 245, 245, 0.425);
+  justify-content: center
+
+}
+#art{
+  max-height: 275px;
+  max-width: 350px;
+}
